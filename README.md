@@ -1,3 +1,3 @@
 # Hello-World-
-my first git hub repository
+my first grepository on github
 Now my first edit
